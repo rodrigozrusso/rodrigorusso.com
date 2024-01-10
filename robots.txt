@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rodrigorusso.com/sitemap.xml
+Sitemap: https://www.rodrigorusso.com/sitemap.xml
